@@ -134,4 +134,3 @@ module.exports = (client, commandOptions) => {
     }
   })
 }
-//Credits to Ubaid7
