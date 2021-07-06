@@ -1,6 +1,1 @@
-
-Simple multiguild botto
-
-Made by </End++>#6969 and Bakubro#4200
-
-Hi there :D! This is a discord.js bot code which we made!
+Welcome! This is a simple discord.js bot! Made by </End++>#6969 ( yes i have 2 accounts lmao)
